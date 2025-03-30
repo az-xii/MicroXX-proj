@@ -2,6 +2,8 @@
 
 A powerful tool for compiling and deploying C++ code to microcontrollers.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Platform: Windows/Linux](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green)
 
 ## Overview
 
@@ -20,13 +22,13 @@ Micro++ simplifies the process of compiling C++ code and deploying it to various
 - **Operating Systems**: Windows or Linux
 - **Dependencies**: Git (for SDK setup)
 
-> **Note**: macOS is not currently supported. soeey
+> **Note**: macOS is not currently supported. Soweyy uwu
 
 ## Installation
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/https://github.com/az-xii/MicroXX-proj
+git clone https://github.com/yourusername/micropp.git
 cd micropp
 ```
 
